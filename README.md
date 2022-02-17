@@ -94,7 +94,7 @@ principio de inversión de dependencias:
 ```bash	
 	git push <URL Repositorio>	
 ```
-
+[![Whats-App-Image-2022-02-16-at-10-49-07-PM.jpg](https://i.postimg.cc/vmrQvpDB/Whats-App-Image-2022-02-16-at-10-49-07-PM.jpg)](https://postimg.cc/R305Sp75)
 
 ### Parte II
 
