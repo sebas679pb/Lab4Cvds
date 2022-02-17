@@ -3,7 +3,6 @@ package hangman.model;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.*;
 import org.junit.*;
-import hangman.model.*;
 
 /**
  * Clases de equivalencia variantes GameScore:
