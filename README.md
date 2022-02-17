@@ -4,6 +4,8 @@
 
 ### Desarrollo Dirigido por Pruebas + DIP + DI + Contenedores Livianos
 
+# Juan David Martinez Cardozo
+# Jhon Sebastian Piñeros Barrera
 
 Para este taller se va a trabajar sobre el juego del ahorcado.
 
